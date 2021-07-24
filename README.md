@@ -8,7 +8,8 @@ REQUIREMENTS:
 - Amazon ec2 key pair
 - GitHub account
 - PuTTy Config installed
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------PROCESS :
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------PROCESS :
 1) This is a tutorial link to deploy an ec2 instance on your AWS cloud and to deploy and run Jenkins on the ec2 instance using PuTTY Config
 https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
 
